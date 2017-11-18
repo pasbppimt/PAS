@@ -1,0 +1,15 @@
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\bin\Release\PAS.exe.config
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\bin\Release\PAS.exe
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\bin\Release\PAS.pdb
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.MainForm.resources
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.Properties.Resources.resources
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.csproj.GenerateResource.Cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.exe.licenses
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.exe
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.pdb
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\bin\Release\PAS.exe.manifest
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\bin\Release\PAS.application
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.exe.manifest
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\PAS\PAS\obj\Release\PAS.application
